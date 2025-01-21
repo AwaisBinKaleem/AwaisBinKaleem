@@ -1,0 +1,19 @@
+import './App.css';
+import { BrowserRouter, Routes, Route, Outlet } from "react-router-dom";
+
+function App() {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<p>home react-router@6.28.2</p>} />
+        <Route path="dashboard" element={<Outlet />}>
+          <Route index element={<p>home</p>} />
+          <Route path="settings" element={<p>settings</p>} />
+        </Route>
+      </Routes>
+
+    </BrowserRouter>
+  );
+}
+
+export default App;
