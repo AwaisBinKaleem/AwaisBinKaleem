@@ -6,6 +6,20 @@ Senior Software Engineer | Full Stack JS | Node.js | React.js | Next.js | JavaSc
 
 ---
 
+- 😄 Pronouns `he`/`him`/`his`
+
+- 🔭 Working on [CopilotKit](https://github.com/copilotkit/copilotkit)
+
+- 🌱 Learning **Agentic AI, OLLAMA, MCP and LangChain**
+
+- 💬 Ask me about **TypeScript, React, Node.JS and Generative AI**
+
+- 📫 Reach out: **mohammadawais9009@outlook.com**
+
+- 📄 My experiences: https://www.linkedin.com/in/awaisbinkaleem/
+
+---
+
 I am experienced full-stack Node-JS developer with higher technical education with a degree Master in Computer Science.
 I have 4.5 years of commercial experience in the Backed development and frontend development as well, I am always looking to expand my skill-set and grow.
 My main focus is to develop scalable Applications in Node Js , React.js, Next.js, React Native, Typescript & Node.JS libraries (NPM). 
@@ -33,32 +47,12 @@ ________________________________________________________________________________
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tylerslaton&show_icons=true&locale=en" alt="tylerslaton" /></p>
 -->
 
-- 😄 Pronouns `he`/`him`/`his`
-
-- 🔭 Working on [CopilotKit](https://github.com/copilotkit/copilotkit)
-
-- 🌱 Learning **Realtime AI, LangGraph, and Mastra**
-
-- 👯 Let's collaborate on [CopilotKit](https://github.com/copilotkit/copilotkit)
-
-- 📝 I occasionally write articles: https://medium.com/@mtslaton1
-
-- 💬 Ask me about **TypeScript, React, and Generative AI**
-
-- 📫 Reach out: **mtslaton1@gmail.com**
-
-- 📖 Learn about me: https://tylerslaton.dev
-
-- 📄 My experiences: https://www.linkedin.com/in/michael-t-slaton/
-
----
 <h3 align="left">Stuff I use very often:</h3>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src=" /logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
