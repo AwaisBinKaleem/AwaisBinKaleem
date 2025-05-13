@@ -29,7 +29,7 @@ Career highlights:
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tylerslaton&show_icons=true&locale=en" alt="tylerslaton" /></p>
+#<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tylerslaton&show_icons=true&locale=en" alt="tylerslaton" /></p>
 
 - 😄 Pronouns `he`/`him`/`his`
 
