@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Awais Kaleem</h1>
 <h3 align="center">I'm passionate about Javascript, Node.JS, AI and anything adjacent.</h3>
-
+<p align="center">&nbsp;
 Senior Software Engineer | Full Stack JS | Node.js | React.js | Next.js | JavaScript | React-Native | TypeScript | TypeORM | SequalizeORM | SQL | MongoDB | REST-APIs | GraphQL | AWS | web3.js | MCP
+</p>
 
 ---
 
@@ -28,8 +29,9 @@ Career highlights:
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-
-#<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tylerslaton&show_icons=true&locale=en" alt="tylerslaton" /></p>
+<!--
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tylerslaton&show_icons=true&locale=en" alt="tylerslaton" /></p>
+-->
 
 - 😄 Pronouns `he`/`him`/`his`
 
