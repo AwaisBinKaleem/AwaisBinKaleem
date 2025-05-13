@@ -8,7 +8,7 @@ Senior Software Engineer | Full Stack JS | Node.js | React.js | Next.js | JavaSc
 
 - 😄 Pronouns `he`/`him`/`his`
 
-- 🔭 Working on [CopilotKit](https://github.com/copilotkit/copilotkit)
+- 🔭 Working on [CopilotKit](https://www.copilotkit.ai/)
 
 - 🌱 Learning **Agentic AI, OLLAMA, MCP and LangChain**
 
