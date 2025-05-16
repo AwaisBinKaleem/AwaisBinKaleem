@@ -52,7 +52,7 @@ Senior Software Engineer | Full Stack JS | Node.js | React.js | Next.js | JavaSc
 ---
 
 I am experienced full-stack Node-JS developer with higher technical education with a degree Master in Computer Science.
-I have 4.5 years of commercial experience in the Backed development and frontend development as well, I am always looking to expand my skill-set and grow.
+I have 5 years of commercial experience in the Backed development and frontend development as well, I am always looking to expand my skill-set and grow.
 My main focus is to develop scalable Applications in Node Js , React.js, Next.js, React Native, Typescript & Node.JS libraries (NPM). 
 i can write Unit Tests for APIs using Jest, Mocha & Chai Libraries & generate mock data for unit tests using Chance.js & Faker.
 
