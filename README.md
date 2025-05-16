@@ -56,7 +56,7 @@ I have 4.5 years of commercial experience in the Backed development and frontend
 My main focus is to develop scalable Applications in Node Js , React.js, Next.js, React Native, Typescript & Node.JS libraries (NPM). 
 i can write Unit Tests for APIs using Jest, Mocha & Chai Libraries & generate mock data for unit tests using Chance.js & Faker.
 
-In my job, I also worked with web3.js, Redux, Material-UI, Tailwind, uiverse.io, AG-Grid, Lodash, Charts, signals-react, react-query, Formik, Yup Schema, Moment.js, Github, CICD, Jira, Apollo GraphQL, styled-components, socket.io, peer.js p2p server, ngrok tunnel webhook, Intersection Observer API, iDraw.js, deepstream.io, puppeteer, rainbow kit wagmi, ui-layouts.com, reverseui.com,
+In my job, I also worked with web3.js, Redux, Material-UI, Tailwind, uiverse.io, AG-Grid, Lodash, Charts, signals-react, react-query, Formik, Yup Schema, Moment.js, Github, CICD, Jira, Apollo GraphQL, styled-components, socket.io, peer.js p2p server, ngrok tunnel webhook, Intersection Observer API, iDraw.js, deepstream.io, puppeteer, rainbow kit wagmi, ui-layouts.com, AceternityUI, reverseui.com,
 
 Node.JS, Express.js, Adonis.js, knex.js, TypeORM, SQL, Mongo DB, AppWrite-DB, Sequalize ORM, Yup Schema Validation, nodemailer, Stripe Payment Gateway, Redis, Algolia, Twillio, passport js, Multer JS, AWS Serverless Lambda, Cloudflare DNS, customgpt.ai, Postgres, Geospatial Information System (postGIS), Google Maps API & MapBox, iplocate.io, Swagger API Docs, log.io, n8n, Prometheus, Grafana & AWS etc.
 
