@@ -10,7 +10,7 @@ Senior Software Engineer | Full Stack JS | Node.js | Bun | React.js | Next.js | 
 
 - 🔭 Working on [CopilotKit](https://www.copilotkit.ai/)
 
-- 🌱 Learning **Agentic AI, OLLAMA, Mem0, MCP, NL-web, context7 and LangChain**
+- 🌱 Learning **Agentic AI, OLLAMA, Mem0, MCP, NL-web, context7 and LangChain ,getStream.io**
 
 - 💬 Ask me about **TypeScript, React, Node.JS and Generative AI**
 
