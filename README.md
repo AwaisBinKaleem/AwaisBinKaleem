@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Awais Kaleem</h1>
 <h3 align="center">I'm passionate about Javascript, Node.JS, React, AI and anything adjacent.</h3>
 <p align="center">&nbsp;
-Senior Software Engineer | Full Stack JS | Node.js | Bun | React.js | Next.js | JavaScript | React-Native | TypeScript | TypeORM | SequalizeORM | SQL | MongoDB | REST-APIs | GraphQL | AWS | web3.js | MCP
+Senior Software Engineer | Full Stack JS | Node.js | Bun | React.js | Next.js | JavaScript | React-Native | TypeScript | Hono | TypeORM | SequalizeORM | SQL | MongoDB | REST-APIs | GraphQL | AWS | web3.js | MCP
 </p>
 
 ---
@@ -58,7 +58,7 @@ i can write Unit Tests for APIs using Jest, Mocha & Chai Libraries & generate mo
 
 In my job, I also worked with web3.js, Redux, Material-UI, Tailwind, uiverse.io, AG-Grid, Lodash, Charts, signals-react, react-query, Formik, Yup Schema, Moment.js, Github, CICD, Jira, Apollo GraphQL, styled-components, socket.io, peer.js p2p server, ngrok tunnel webhook, Intersection Observer API, iDraw.js, deepstream.io, puppeteer, rainbow kit wagmi, ui-layouts.com, AceternityUI, reverseui.com, reactbits.dev, frimousse emoji, copilotKit, getstream.io, s2.dev,
 
-Node.JS, Express.js, Adonis.js, knex.js, TypeORM, Sequalize ORM, Drizzle ORM, Prisma ORM, SQL, Mongo DB, AppWrite-DB, Sequalize ORM, Yup Schema Validation, nodemailer, Stripe Payment Gateway, Redis, Algolia, Twillio, passport js, Multer JS, AWS Serverless Lambda, Cloudflare DNS, customgpt.ai, OLLAMA, Mem0-open-memory for LLM, contimue.dev, MCP server, open MCP client, Postgres, Geospatial Information System (postGIS), Google Maps API & MapBox, iplocate.io, Swagger API Docs, log.io, n8n, Claude Code CLI, Prometheus, Grafana & AWS etc.
+Node.JS, Express.js, Adonis.js, Hono, knex.js, TypeORM, Sequalize ORM, Drizzle ORM, Prisma ORM, SQL, Mongo DB, AppWrite-DB, Sequalize ORM, Yup Schema Validation, nodemailer, Stripe Payment Gateway, Redis, Algolia, Twillio, passport js, Multer JS, AWS Serverless Lambda, Cloudflare DNS, customgpt.ai, OLLAMA, Mem0-open-memory for LLM, contimue.dev, MCP server, open MCP client, Postgres, Geospatial Information System (postGIS), Google Maps API & MapBox, iplocate.io, Swagger API Docs, log.io, n8n, Claude Code CLI, Prometheus, Grafana & AWS etc.
 
 I wanna utilize my technical skills and provide a professional service to customers by applying and honing my knowledge and working in a challenging and motivating working environment.
 
