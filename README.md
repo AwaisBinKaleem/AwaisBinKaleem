@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Awais Kaleem</h1>
 <h3 align="center">I'm passionate about Javascript, Node.JS, React, AI and anything adjacent.</h3>
 <p align="center">&nbsp;
-Senior Software Engineer | Full Stack JS | Node.js | Bun | React.js | Next.js | JavaScript | React-Native | TypeScript | Hono | TypeORM | SequalizeORM | SQL | MongoDB | REST-APIs | GraphQL | AWS | web3.js | MCP
+Senior Software Developer | Full Stack Developer | AI Engineer | Node.js | Bun | React.js | Next.js | JavaScript | React-Native | TypeScript | Hono | TypeORM | SequalizeORM | SQL | MongoDB | REST-APIs | GraphQL | AWS | web3.js | MCP
 </p>
 
 ---
