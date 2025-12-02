@@ -10,9 +10,9 @@ Senior Software Developer | Full Stack Developer | AI Engineer | Node.js | Bun |
 
 - 🔭 Working on [CopilotKit](https://www.copilotkit.ai/)
 
-- 🌱 Learning **Agentic AI, OLLAMA, Mem0, byterover, MCP, A2A, AG-UI, NL-web, context7 and LangChain, Llama-Index, getStream.io, ai-sdk, Docker-Model-Runner Docling**,
+- 🌱 Learning **Agentic AI, OLLAMA, Mem0, byterover, MCP, A2A, AG-UI, NL-web, context7 and LangChain, Llama-Index, getStream.io, ai-sdk, Docker-Model-Runner, Docling**,
 
-- 💬 Ask me about **TypeScript, React, Node.JS and Generative AI**
+- 💬 Ask me about **TypeScript, React, Node.JS, Databases, AWS and Generative AI**
 
 - 📫 Reach out: **mohammadawais9009@outlook.com**
 
