@@ -4,6 +4,8 @@
 Senior Software Developer | Full Stack Developer | AI Engineer | Node.js | Bun | React.js | Next.js | JavaScript | React-Native | TypeScript | Hono | TypeORM | SequalizeORM | SQL | MongoDB | REST-APIs | GraphQL | AWS | web3.js | MCP
 </p>
 
+I Help Founders Build SaaS MVP Mobile & Web Development | From Idea to Launch Starting at $999 | 4+ Projects Delivered | Growth Leader | Remote Collaboration | Scaling Tech Teams
+
 ---
 
 - 😄 Pronouns `he`/`him`/`his`
