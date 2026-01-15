@@ -12,7 +12,7 @@ I Help Founders Build SaaS MVP Mobile & Web Development | From Idea to Launch St
 
 - 🔭 Working on [CopilotKit](https://www.copilotkit.ai/)
 
-- 🌱 Learning **Agentic AI, OLLAMA, Mem0, byterover, MCP, A2A, AG-UI, NL-web, context7 and LangChain, Llama-Index, getStream.io, ai-sdk, genkit, Docker-Model-Runner, Docling**,
+- 🌱 Learning **Agentic AI, OLLAMA, Mem0, byterover, MCP, A2A, AG-UI, NL-web, context7 and LangChain, Llama-Index, getStream.io, ai-sdk, genkit, Docker-Model-Runner, Docling**, ai-sdk, gan-kit.ai,
 
 - 💬 Ask me about **TypeScript, React, Node.JS, Databases, AWS and Generative AI**
 
@@ -72,7 +72,7 @@ Career highlights:
 - Decentralised Application development based on etherium Blockchain in React echo system web3.js & Hardhat.
 - Experienced at debugging code.
 - Familiar with Monitoring Tools, Grafana, Loki & Prometheus
-- Also worked on infrastructure development & cloud services like EC2, S3, CloudFront CDN, RDS, Lambda, AWS Elastic BeansTalk, AWS API gateway & CORS, NGINX, Reverse proxy, load balancer, Docker, PM2-server, UFW & iptables firewall, SSH server, SSL/TLS certificates, Cloud Flear DNS & AWS Route 53, Teraform, bullMQ, Redis, kafka-pub/sub, CICD, LXD-Linux Container, log.io, OLLAMA, LangChain, VectorDB, MCP-server etc.
+- Also worked on infrastructure development & cloud services like EC2, S3, CloudFront CDN, RDS, Lambda, AWS Elastic BeansTalk, AWS API gateway & CORS, NGINX, Reverse proxy, load balancer, Docker, PM2-server, UFW & iptables firewall, SSH server, SSL/TLS certificates, Cloud Flear DNS & AWS Route 53, Teraform, bullMQ, Redis, kafka-pub/sub, CICD, LXD-Linux Container, log.io, OLLAMA, LangChain, VectorDB, huskey, MCP-server etc.
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
