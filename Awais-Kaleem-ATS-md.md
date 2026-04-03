@@ -9,12 +9,12 @@
 
 ---
 
-### SUMMARY:
-I’m a Full-Stack Node.js Developer with 5+ years of commercial experience and a Master’s degree in Computer Science. I specialize in building scalable, secure, and high-performance web and mobile applications, managing the full lifecycle from development to deployment on AWS using CI/CD pipelines. My expertise spans backend, frontend, AI, and blockchain-based systems, with a strong focus on production-ready architectures that perform reliably under real-world conditions. I am passionate about clean code, system design, and delivering impactful digital solutions.
+### SUMMARY
+I’m a Full-Stack Node.js Developer with 5+ years of commercial experience and a Master’s degree in Computer Science. I specialize in building scalable, secure, and high-performance web and mobile applications, managing the full lifecycle from development to deployment on AWS using CI/CD pipelines. My expertise spans MERN, backend, frontend, AI, and blockchain-based systems, with a strong focus on production-ready architectures that perform reliably under real-world conditions. I am passionate about clean code, system design, and delivering impactful digital solutions.
 
 ---
 
-### EXPERIENCE:
+### EXPERIENCE
 
 **Blockchain App Developer | ZeeYoTech** *03/2023 – Present*
 
@@ -34,7 +34,7 @@ I’m a Full-Stack Node.js Developer with 5+ years of commercial experience and 
 
 ---
 
-### SKILLS:
+### SKILLS
 
 * **Languages & Runtimes:** Node.js, JavaScript, TypeScript, Express JS, Python.
 * **Frontend & Mobile:** React.js, Next.js, React Native, Redux, Tailwind CSS, MUI, AG-Grid, Lodash.
@@ -45,7 +45,7 @@ I’m a Full-Stack Node.js Developer with 5+ years of commercial experience and 
 
 ---
 
-### PROJECTS:
+### PROJECTS
 
 **3.Finance (Blockchain)** - *Staking Protocol DApp*  
 https://beta.3.finance
@@ -65,12 +65,12 @@ https://beta.3.finance
 
 ---
 
-### EDUCATION:
+### EDUCATION
 
 **Master in Computer Science** - Superior University Lahore | *10/2019 – 10/2021* **GPA:** 3.4 / 4.0
 
 ---
 
-### LANGUAGES:
+### LANGUAGES
 * English
 * Urdu
