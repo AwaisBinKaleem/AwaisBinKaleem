@@ -1,5 +1,5 @@
 # AWAIS KALEEM
-### Sr. Full Stack Developer | AI Automation Engineer | React | Node
+### Full Stack Developer | AI Automation Engineer | React | Node
 
 **Phone / Whatsapp:** +92 315 4726668  
 **Email:** mohammadawais9009@outlook.com  
@@ -10,7 +10,7 @@
 ---
 
 ### SUMMARY
-I’m a Full-Stack Node.js Developer with 5+ years of commercial experience and a Master’s degree in Computer Science. I specialize in building scalable, secure, and high-performance web and mobile applications, managing the full lifecycle from development to deployment on AWS using CI/CD pipelines. My expertise spans MERN, backend, frontend, AI, and blockchain-based systems, with a strong focus on production-ready architectures that perform reliably under real-world conditions. I am passionate about clean code, system design, and delivering impactful digital solutions.
+I’m a Full-Stack Node.js Developer & AI automation engineer with 5+ years of commercial experience and a Master’s degree in Computer Science. I specialize in building scalable, secure, and high-performance web and mobile applications, managing the full lifecycle from development to deployment on AWS using CI/CD pipelines. My expertise spans MERN, backend, frontend, AI, and blockchain-based systems, with a strong focus on production-ready architectures that perform reliably under real-world conditions. I am passionate about clean code, system design, and delivering impactful digital solutions.
 
 ---
 
@@ -54,11 +54,13 @@ https://beta.3.finance
 * Included features for token exchange and an NFT marketplace.
 * Integrating Moralis API for blockchain data indexing.
 
-**GiddyOps** - *Laundry Care Business Platform*
-* Developed the backend architecture using the Python-Serverless Framework to manage orders for online laundry care business.
+**GiddyOps** - *Laundry Care Business Platform*  
+https://app.dev.giddyops.com
+* Developed the backend architecture using the Python-Serverless Framework to manage orders for online laundry care dashboard and implimented customer support using twilio.
 
-**Flashboard UDT** - *Stock Market Analysis Tool*
-* Built a high-performance frontend using React.js and AG-Grid for real-time stock market data visualization.
+**Flashboard UDT** - *Stock Market Analysis Tool*  
+https://unstructureddataterminal.com/
+* Built a high-performance frontend using React.js and AG-Grid for real-time stock market data visualization using Hi-Charts.
 
 **Yesaal** - *Service Provider Appointment App*
 * Developed mobile and web interfaces using React Native and React.js to facilitate service bookings.
