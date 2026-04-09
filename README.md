@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Awais Kaleem</h1>
 <h3 align="center">I'm passionate about Javascript, Node.JS, React, AI and anything adjacent.</h3>
 <p align="center">&nbsp;
-Senior Software Developer | Full Stack Developer | AI Engineer | Node.js | Bun | React.js | Next.js | JavaScript | React-Native | TypeScript | Hono | TypeORM | SequalizeORM | SQL | MongoDB | REST-APIs | GraphQL | AWS | web3.js | MCP
+Fullstack Developer | AI Automation Engineer | Node.js | Bun | React.js | Next.js | JavaScript | React-Native | TypeScript | Hono | TypeORM | SequalizeORM | SQL | MongoDB | REST-APIs | GraphQL | AWS | web3.js | MCP
 </p>
 
-I Help Founders Build SaaS MVP Mobile & Web Development | From Idea to Launch Starting at $999 | 4+ Projects Delivered | Growth Leader | Remote Collaboration | Scaling Tech Teams
+I Help Founders Build AI Powered SaaS MVP Mobile & Web Development | From Idea to Launch Starting at $999 | 4+ Projects Delivered | Growth Leader | Remote Collaboration | Scaling Tech Teams
 
 ---
 
@@ -12,7 +12,7 @@ I Help Founders Build SaaS MVP Mobile & Web Development | From Idea to Launch St
 
 - 🔭 Working on [CopilotKit](https://www.copilotkit.ai/)
 
-- 🌱 Learning **Agentic AI, OLLAMA, Mem0, byterover, MCP, A2A, AG-UI, NL-web, context7 and LangChain, Llama-Index, getStream.io, ai-sdk, genkit, Docker-Model-Runner, Docling**, ai-sdk, gan-kit.ai,
+- 🌱 Learning **Agentic AI, OLLAMA, Mem0, byterover, MCP, A2A, AG-UI, NL-web, context7 and LangChain, Llama-Index, getStream.io, ai-sdk, genkit, Docker-Model-Runner, Docling, ai-sdk, gan-kit.ai, OpenClaw**
 
 - 💬 Ask me about **TypeScript, React, Node.JS, Databases, AWS and Generative AI**
 
