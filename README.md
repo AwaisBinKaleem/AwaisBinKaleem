@@ -12,7 +12,7 @@ I Help Founders Build AI Powered SaaS MVP Mobile & Web Development | From Idea t
 
 - 🔭 Working on [CopilotKit](https://www.copilotkit.ai/)
 
-- 🌱 Learning **Agentic AI, OLLAMA, Mem0, byterover, MCP, A2A, AG-UI, NL-web, context7 and LangChain, Llama-Index, getStream.io, ai-sdk, genkit, Docker-Model-Runner, Docling, ai-sdk, gan-kit.ai, OpenClaw**
+- 🌱 Learning **Agentic AI, OLLAMA, Mem0, byterover, MCP, A2A, AG-UI, NL-web, context7 and LangChain, Llama-Index, getStream.io, ai-sdk, genkit, Docker-Model-Runner, Docling, ai-sdk, gan-kit.ai, OpenClaw, genspark.ai**
 
 - 💬 Ask me about **TypeScript, React, Node.JS, Databases, AWS and Generative AI**
 
