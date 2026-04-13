@@ -61,7 +61,7 @@ https://app.dev.giddyops.com
 
 **Flashboard UDT** - *Stock Market Analysis Tool*  
 https://unstructureddataterminal.com/
-* Built a high-performance frontend using React.js and AG-Grid for real-time stock market data visualization using Hi-Charts & ag-grid.
+* Built a high-performance in React.js for real-time stock market data visualization using Hi-Charts & ag-grid.
 
 **Yesaal** - *Service Provider Appointment App*
 * Developed mobile and web interfaces using React Native and React.js to facilitate service bookings.
