@@ -56,14 +56,18 @@ https://beta.3.finance
 
 **GiddyOps** - *Laundry Care Business Platform*  
 https://app.dev.giddyops.com
-* Developed the backend architecture using the Python-Serverless Framework to manage orders for online laundry care dashboard and implimented customer support using twilio.
+* Developed the backend architecture using the Python-Serverless Framework to manage orders for online laundry care dashboard.
+* implimented customer support using twilio.
 
 **Flashboard UDT** - *Stock Market Analysis Tool*  
 https://unstructureddataterminal.com/
-* Built a high-performance frontend using React.js and AG-Grid for real-time stock market data visualization using Hi-Charts.
+* Built a high-performance frontend using React.js and AG-Grid for real-time stock market data visualization using Hi-Charts & ag-grid.
 
 **Yesaal** - *Service Provider Appointment App*
 * Developed mobile and web interfaces using React Native and React.js to facilitate service bookings.
+* implimented admin dashboard using react js.
+* implimented order tracking system.
+* implimented push notification service.
 
 ---
 
