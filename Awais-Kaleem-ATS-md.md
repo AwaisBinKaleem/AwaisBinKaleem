@@ -36,7 +36,7 @@ I’m a Full-Stack Node.js Developer & AI automation engineer with 5+ years of c
 
 ### SKILLS
 
-* **Languages & Runtimes:** Node.js, JavaScript, TypeScript, Express JS, Python.
+* **Languages & Runtimes:** Node.js, JavaScript, TypeScript, Express JS.
 * **Frontend & Mobile:** React.js, Next.js, React Native, Redux, Tailwind CSS, MUI, AG-Grid, Lodash.
 * **Backend & Database:** MySQL, MongoDB, Type-ORM, Prisma ORM, REST APIs, Apollo GraphQL, Socket.io, JWT Authentication.
 * **Cloud & DevOps:** AWS (EC2, S3, Lambda, CDN), Docker, NGINX, PM2, CI/CD (GitHub Actions), SSH, UFW-Firewall, Linux.
