@@ -38,7 +38,7 @@ I’m a Full-Stack Node.js Developer & AI automation engineer with 5+ years of c
 
 * **Languages & Runtimes:** Node.js, JavaScript, TypeScript, Express JS.
 * **Frontend & Mobile:** React.js, Next.js, React Native, Redux, Tailwind CSS, MUI, AG-Grid, Lodash.
-* **Backend & Database:** MySQL, MongoDB, Type-ORM, Prisma ORM, REST APIs, Apollo GraphQL, Socket.io, JWT Authentication.
+* **Backend & Database:** MySQL, Postgres, Type-ORM, Prisma ORM, REST APIs, Apollo GraphQL, Socket.io, JWT Authentication,.
 * **Cloud & DevOps:** AWS (EC2, S3, Lambda, CDN), Docker, NGINX, PM2, CI/CD (GitHub Actions), SSH, UFW-Firewall, Linux.
 * **AI & Emerging Tech:** AI Integrations, MCP (Model Context Protocol), Ollama, Copilot Kit, N8N, AI SDK, Open Claw.
 * **Tools & Misc:** JIRA, GitHub, Stripe Payment Integration, Twilio, Maps APIs, Yup-Schema.
@@ -49,7 +49,8 @@ I’m a Full-Stack Node.js Developer & AI automation engineer with 5+ years of c
 
 **3.Finance (Blockchain)** - *Staking Protocol DApp*  
 https://beta.3.finance
-* Developed a Decentralized Application interacting with smart contracts via Metamask and web3.js.
+* Developed a Decentralized Application interacting with smart contracts via Metamask and web3.js, Ethers JS.
+* Multi Wallet integration in react app by rainbow-kit.
 * Managed EVM node setup and private blockchain explorers using EC2 & Blockscout.
 * Included features for token exchange and an NFT marketplace.
 * Integrating Moralis API for blockchain data indexing.
