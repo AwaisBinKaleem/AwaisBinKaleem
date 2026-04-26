@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Awais Kaleem</h1>
 <h3 align="center">I'm passionate about Javascript, Node.JS, React, AI and anything adjacent.</h3>
 <p align="center">&nbsp;
-Fullstack Developer | AI Automation Engineer | Node.js | Bun | React.js | Next.js | JavaScript | React-Native | TypeScript | Hono | TypeORM | SequalizeORM | SQL | MongoDB | REST-APIs | GraphQL | AWS | web3.js | MCP
+Fullstack Developer | AI Automation Engineer | Node.js | Bun | React.js | Next.js | JavaScript | React-Native | TypeScript | Hono | TypeORM | SequalizeORM | SQL | MongoDB | REST-APIs | GraphQL | AWS | web3.js | MCP | Corsair
 </p>
 
 I Help Founders Build AI Powered SaaS MVP Mobile & Web Development | From Idea to Launch Starting at $999 | 4+ Projects Delivered | Growth Leader | Remote Collaboration | Scaling Tech Teams
