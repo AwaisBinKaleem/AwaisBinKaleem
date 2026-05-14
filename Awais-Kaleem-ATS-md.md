@@ -42,7 +42,7 @@ I’m a Full Stack Node.js Developer & AI automation engineer with 5+ years of c
 * **Cloud & DevOps:** AWS Infrastructure (EC2, S3, Lambda, CDN), Docker, NGINX, PM2, CI/CD (GitHub Actions), SSH, UFW-Firewall, Linux.
 * **AI & Emerging Tech:** AI Integrations, MCP (Model Context Protocol), Ollama, Copilot Kit, n8n, AI SDK, Open Claw, Open AI, Cursor, RAG, Vector Embeddings.
 * **Tools & Misc:** JIRA (Agile), Slack, GitHub, Stripe Payment Integration, Twilio, Maps APIs, Yup Schema, third party APIs.
-* **Soft Skills & Managment:** Problom Solving, Leader-ship, project ownership, Requirment Engineering, Scalable System Thinking, clean maintainable code, Clear Communication, Team collaboration, Meet Timelines.
+* **Soft Skills & Managment:** Problom Solving, Leader-ship, project ownership, Requirment Engineering, R&D, Scalable System Thinking, clean maintainable code, Clear Communication, Team collaboration, Meet Timelines.
 
 ---
 
