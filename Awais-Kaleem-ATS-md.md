@@ -1,5 +1,5 @@
 # AWAIS KALEEM
-### Full Stack Developer | AI Automation Engineer | React | Node
+### Full Stack Developer | AI Automation Engineer | Node | React
 
 **Phone / Whatsapp:** +92 315 4726668  
 **Email:** mohammadawais9009@outlook.com  
