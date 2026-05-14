@@ -10,7 +10,7 @@
 ---
 
 ### SUMMARY
-I’m a Full-Stack Node.js Developer & AI automation engineer with 5+ years of commercial experience and a Master’s degree in Computer Science. I specialize in building scalable, secure, and high-performance web and mobile applications, managing the full lifecycle from development to deployment on AWS using CI/CD pipelines. My expertise spans MERN, backend, frontend, AI, and blockchain-based systems, with a strong focus on production-ready architectures that perform reliably under real-world conditions. I am passionate about clean code, system design, and delivering impactful digital solutions.
+I’m a Full Stack Node.js Developer & AI automation engineer with 5+ years of commercial experience and a Master’s degree in Computer Science. I specialize in building scalable, secure, and high-performance web and mobile applications, managing the full lifecycle from development to deployment on AWS using CI/CD pipelines. My expertise spans MERN, backend, frontend, AI, and blockchain based systems, with a strong focus on production ready architectures that perform reliably under real world conditions. I am passionate about clean code, system design, and delivering impactful digital solutions.
 
 ---
 
@@ -28,7 +28,7 @@ I’m a Full-Stack Node.js Developer & AI automation engineer with 5+ years of c
 **Software Developer | The Experts Cloud pvt.ltd** *01/2021 – 03/2023*
 
 * Served as a front-end developer in React.js and back-end developer in Node.js.
-* Developed cross-platform mobile applications using React Native.
+* Developed cross platform mobile applications using React Native.
 * Built and maintained CI/CD pipelines using GitHub Actions for automated deployments.
 * Configured and managed AWS infrastructure including NGINX Reverse proxy, Load Balancers, RDS, EC2, Serverless, S3, API Gateway, Redis, SQS, Twilio, Socket.IO.
 
@@ -37,11 +37,12 @@ I’m a Full-Stack Node.js Developer & AI automation engineer with 5+ years of c
 ### SKILLS
 
 * **Languages & Runtimes:** Node.js, JavaScript, TypeScript, Express JS.
-* **Frontend & Mobile:** React.js, Next.js, React Native, Redux, Tailwind CSS, MUI, AG-Grid, Lodash.
-* **Backend & Database:** MySQL, Postgres, Type-ORM, Prisma ORM, REST APIs, Apollo GraphQL, Socket.io, JWT Authentication,.
+* **Frontend & Mobile App:** React.js, Next.js, React Native, Redux, Tailwind CSS, MUI, AG-Grid, Lodash.
+* **Backend & Database:** MySQL, Postgres, Mongo, Type-ORM, Prisma ORM, REST APIs, Apollo GraphQL, Socket.io, JWT Authentication,.
 * **Cloud & DevOps:** AWS (EC2, S3, Lambda, CDN), Docker, NGINX, PM2, CI/CD (GitHub Actions), SSH, UFW-Firewall, Linux.
-* **AI & Emerging Tech:** AI Integrations, MCP (Model Context Protocol), Ollama, Copilot Kit, N8N, AI SDK, Open Claw.
-* **Tools & Misc:** JIRA, GitHub, Stripe Payment Integration, Twilio, Maps APIs, Yup-Schema.
+* **AI & Emerging Tech:** AI Integrations, MCP (Model Context Protocol), Ollama, Copilot Kit, n8n, AI SDK, Open Claw, Open AI, Cursor.
+* **Tools & Misc:** JIRA (Agile), GitHub, Stripe Payment Integration, Twilio, Maps APIs, Yup-Schema, third party APIs.
+* **Soft Skills & Managment:** Problom Solving, Leader-ship, project ownership, Requirment Engineering, Scalable System Thinking, clean maintainable code, Clear Communication, Team collaboration, Meet Timelines.
 
 ---
 
