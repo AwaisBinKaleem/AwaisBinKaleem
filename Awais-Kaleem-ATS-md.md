@@ -37,7 +37,7 @@ I’m a Full Stack Node.js Developer & AI automation engineer with 5+ years of c
 ### SKILLS
 
 * **Languages & Runtimes:** Node.js, JavaScript, TypeScript, Express JS, Adonis Framework.
-* **Frontend & Mobile App:** React.js, Next.js, React Native, Redux, Tailwind CSS, MUI, AG-Grid, Lodash, Telegram Bots/Apps.
+* **Frontend & Mobile App:** React.js, Next.js, React Native, Redux, Tailwind CSS, MUI, Data Grid, Graph/Charts, Lodash, Telegram Bots/Apps.
 * **Backend & Database:** MySQL, Postgres, Mongo, DB Migrations, Type-ORM, Prisma ORM, REST APIs, Apollo GraphQL, Socket.io, JWT Authentication,.
 * **Cloud & DevOps:** AWS Infrastructure (EC2, S3, Lambda, CDN), Docker, NGINX, PM2, CI/CD (GitHub Actions), SSH, UFW-Firewall, Linux.
 * **AI & Emerging Tech:** AI Integrations, MCP (Model Context Protocol), Ollama, Copilot Kit, n8n, AI SDK, Open Claw, Open AI, Curso0r, RAG.
