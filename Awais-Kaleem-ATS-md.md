@@ -30,7 +30,7 @@ I’m a Full Stack Node.js Developer & AI automation engineer with 5+ years of c
 * Served as a front-end developer in React.js and back-end developer in Node.js.
 * Developed cross platform mobile applications using React Native.
 * Built and maintained CI/CD pipelines using GitHub Actions for automated deployments.
-* Configured and managed AWS infrastructure including NGINX Reverse proxy, Load Balancers, RDS, EC2, Serverless, S3, API Gateway, Redis, SQS, Twilio, Socket.IO.
+* Configured and managed AWS infrastructure including NGINX Reverse proxy, Load Balancers, RDS, EC2, Serverless, S3, API Gateway, Redis, SQS, Twilio, websocket.
 
 ---
 
@@ -69,7 +69,7 @@ https://unstructureddataterminal.com/
 * Developed mobile and web interfaces using React Native and React.js to facilitate service bookings.
 * implimented admin dashboard using react js.
 * implimented order tracking system.
-* implimented push notification service.
+* implimented realtime push notification service.
 
 ---
 
