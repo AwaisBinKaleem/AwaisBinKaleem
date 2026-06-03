@@ -16,7 +16,7 @@ I’m a Full Stack Node.js Developer & AI automation engineer with 5+ years of c
 
 ### EXPERIENCE
 
-**Blockchain App Developer | ZeeYoTech** *03/2023 – Present*
+**Blockchain App Developer | ZeeYoTech** *03/2023 – 04/2026*
 
 * Specializing in the Application-Layer of public Blockchain (Ethereum).
 * Developing Decentralized Applications (DApps) that interact with smart contracts using Metamask and web3.js within the React ecosystem.
