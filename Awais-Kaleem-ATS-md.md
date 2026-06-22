@@ -66,8 +66,8 @@ https://unstructureddataterminal.com/
 * Built a high-performance in React.js for real-time stock market data visualization using Hi-Charts & ag-grid.
 
 **Yesaal / hiredo** - *Service Provider Appointment App*
+https://www.hiredo.com/
 * Developed mobile and web interfaces using React Native and React.js to facilitate service bookings.
-* implimented admin dashboard using react js.
 * implimented order tracking system.
 * implimented realtime push notification service.
 
