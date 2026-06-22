@@ -67,7 +67,7 @@ https://unstructureddataterminal.com/
 
 **Yesaal / hiredo** - *Service Provider Appointment App*  
 https://www.hiredo.com/
-* Developed mobile and web interfaces using React Native and React.js to facilitate service bookings.
+* Developed mobile and web interfaces using React Native and Next.js to facilitate service bookings.
 * implimented order tracking system.
 * implimented realtime push notification service.
 
