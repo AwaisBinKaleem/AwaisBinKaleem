@@ -37,9 +37,9 @@ I’m a Full Stack Node.js Developer & AI automation engineer with 5+ years of c
 ### SKILLS
 
 * **Languages & Runtimes:** Node.js, Bun, JavaScript, TypeScript, Express JS, Elesya, Hono, Adonis Framework.
-* **Frontend & Mobile App:** React.js, Next.js, React Native, Redux, ES6+, Tailwind CSS, MUI, UI/UX, Data Grid, Graph/Charts, Lodash, Telegram Bots/Apps, web-hooks.
-* **Backend & Database:** MySQL, Postgres, Mongo, DB Migrations, Type-ORM, Prisma ORM, REST APIs, Apollo GraphQL, WebSocket, Socket.io, JWT Authentication & security.
-* **Cloud & DevOps:** AWS Infrastructure (EC2, S3, Lambda, CDN, SQS), Docker, NGINX, PM2, CI/CD (GitHub Actions), SSH, SSL, TLS, Bull MQ, Rabbit MQ, UFW-Firewall, Linux, CRON Jobs.
+* **Frontend & Mobile App:** React.js, Next.js, React Native, Redux, ES6+, Tailwind CSS, MUI, UI/UX, Data Grid, Graph/Charts, Lodash, TanStack Query, Telegram Bots/Apps, web-hooks.
+* **Backend & Database:** MySQL, Postgres, Mongo DB, DB Migrations, Type-ORM, Prisma ORM, REST APIs, Apollo GraphQL, WebSocket, Socket.io, JWT Authentication & security.
+* **Cloud & DevOps:** AWS Infrastructure (EC2, S3, Lambda, CDN, SQS), Docker, NGINX, PM2, CI/CD (GitHub Actions), SSH, SSL, TLS, Redis, Bull MQ, Rabbit MQ, UFW-Firewall, Linux, CRON Jobs.
 * **AI & Emerging Tech:** AI Integrations, MCP (Model Context Protocol), Ollama, Copilot Kit, n8n workflow automation, AI SDK, Open Claw, Open AI, Cursor, Claud, Copilot RAG, Vector Embeddings, Context Enginering, Prompt Engineering.
 * **Tools & Misc:** JIRA (Agile), Slack, GitHub, Stripe Payment Gateway Integration, Twilio, Google Maps APIs, Yup Schema, Firebase, third party APIs.
 * **Soft Skills & Managment:** Problom Solving, Leader-ship, project ownership, Requirment Engineering, R&D, Scalable System Thinking, clean maintainable code, Clear Communication, Team collaboration, Meet Timelines.
