@@ -40,7 +40,7 @@ I’m a Full Stack Node.js Developer & AI automation engineer with 5+ years of c
 * **Frontend & Mobile App:** React.js, Next.js, React Native, Redux, ES6+, Tailwind CSS, MUI, UI/UX, Data Grid, Graph/Charts, Lodash, TanStack Query, Telegram Bots/Apps, web-hooks.
 * **Backend & Database:** MySQL, Postgres, Mongo DB, DB Migrations, Type-ORM, Prisma ORM, REST APIs, Apollo GraphQL, WebSocket, Socket.io, JWT Authentication & security.
 * **Cloud & DevOps:** AWS Infrastructure (EC2, S3, Lambda, CDN, SQS), Docker, NGINX, PM2, CI/CD (GitHub Actions), SSH, SSL, TLS, Redis, Bull MQ, Rabbit MQ, UFW-Firewall, Linux, CRON Jobs.
-* **AI & Emerging Tech:** AI Integrations, MCP (Model Context Protocol), Ollama, Copilot Kit, n8n workflow automation, AI SDK, Open Claw, Open AI, Cursor, Claud, Copilot RAG, Vector Embeddings, Context Enginering, Prompt Engineering.
+* **AI & Emerging Tech:** AI Integrations, MCP (Model Context Protocol), Ollama, Copilot Kit, AI SDK, n8n workflow automation, AI SDK, Open Claw, Open AI, Cursor, Claud, Copilot RAG, Vector Embeddings, Context Enginering, Prompt Engineering.
 * **Tools & Misc:** JIRA (Agile), Slack, GitHub, Stripe Payment Gateway Integration, Twilio, Google Maps APIs, Yup Schema, Firebase, third party APIs.
 * **Soft Skills & Managment:** Problom Solving, Leader-ship, project ownership, Requirment Engineering, R&D, Scalable System Thinking, clean maintainable code, Clear Communication, Team collaboration, Meet Timelines.
 
@@ -56,7 +56,7 @@ https://beta.3.finance
 * Included features for token exchange and an NFT marketplace.
 * Integrating Moralis API for blockchain data indexing.
 
-**GiddyOps** - *Laundry Care Business Platform*  
+**GiddyOps (Dashboard)** - *Laundry Care Business Platform*  
 https://app.dev.giddyops.com
 * Developed the backend architecture using the Python-Serverless Framework to manage orders for online laundry care dashboard.
 * implimented customer support using twilio.
@@ -65,7 +65,7 @@ https://app.dev.giddyops.com
 https://unstructureddataterminal.com/
 * Built a high-performance in React.js for real-time stock market data visualization using Hi-Charts & ag-grid.
 
-**Yesaal** - *Service Provider Appointment App*
+**Yesaal / hiredo** - *Service Provider Appointment App*
 * Developed mobile and web interfaces using React Native and React.js to facilitate service bookings.
 * implimented admin dashboard using react js.
 * implimented order tracking system.
